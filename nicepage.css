@@ -29828,8 +29828,9 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-menu-1 {width: auto} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
-@media (max-width: 575px){ .u-header .u-image-1 {margin-top: 23px; width: auto}
-.u-header .u-menu-1 {margin-bottom: 23px} }
+@media (max-width: 575px){ .u-header .u-sheet-1 {min-height: 84px}
+.u-header .u-image-1 {margin-top: 23px; width: auto}
+.u-header .u-menu-1 {margin-right: 12px; margin-bottom: 23px} }
  .u-footer .u-sheet-1 {min-height: 120px}
 .u-footer .u-social-icons-1 {height: 32px; min-height: 16px; width: 158px; min-width: 94px; white-space: nowrap; margin: 44px auto}
 .u-footer .u-icon-1 {height: 100%}
